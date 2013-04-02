@@ -20,10 +20,10 @@ Auteur : Julien Maupetit
 
 <!-- Plan -->
 
-1. Pourquoi ?
-2. Les joyeux ornithorynques
-3. Manifeste
-4. `#APIHour` - le concept
+1. Pourquoi Clermont'ech ?
+2. Les joyeux <strike>ornithorynques</strike> développeurs
+3. El Manifesto
+4. Le concept `#APIHour`
 
 
 
@@ -32,7 +32,7 @@ Auteur : Julien Maupetit
 # Pourquoi Clermont'ech ?
 
 
-### `/me` arrive dans la région
+### `/me` arrive en Auvergne
 
 
 ### DjangAuvergne
@@ -40,15 +40,19 @@ Auteur : Julien Maupetit
 
 ### Clermont'ech is born
 
+<img src="images/clermontech_aplat_500px.png" alt="Clermont'ech Esquisse" />
+
 
 
 <!-- ---------- Section ---------- -->
 
-# Les joyeux ornithorynques
+# Les joyeux développeurs
 
 
 # Clermont'ech
 ## est une association Loi 1901
+
+<img src="images/clermontech_logo_400px.png" alt="Clermont'ech logo" class="logo" />
 
 
 ## Bureau
@@ -60,6 +64,8 @@ Auteur : Julien Maupetit
 * Secrétaire : [Manuel Raynaud](http://www.manuel-raynaud.com)
 * Secrétaire suppléant : [Jean-Philippe Serafin](http://jeanphix.me/)
 
+<img src="images/clermontech_bureau_mascottes_900px.png" alt="Clermont'ech Bureau" />
+
 
 
 <!-- ---------- Section ---------- -->
@@ -69,17 +75,30 @@ Auteur : Julien Maupetit
 
 # Ouverture
 
+Clermont'ech est technologie-agnostique.
+
+<img src="images/noun_project_8233.svg" alt="Open" width="300px" class="icon"/>
+
 
 # Indépendance
+
+Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers extérieurs à l’association.
+
+<img src="images/noun_project_13480.svg" alt="Unlock" width="300px" class="icon"/>
 
 
 # Respect
 
+<img src="images/noun_project_767.svg" alt="Handshake" width="500px" class="icon"/>
+
+<div class="credit">
+    Crédit: <a href="http://thenounproject.com/noun/handshake/#icon-No767" target="_blank">Handshake</a> designed by <a href="http://thenounproject.com/Jake_Nelsen" target="_blank">Jake Nelsen</a> from The Noun Project
+</div>
+
 
 # Partage
 
-
-Voir l'intégralité de notre manifeste sur [clermontech.org](http://clermontech.org)
+<img src="images/noun_project_14291.svg" alt="Share" width="300px" class="icon"/>
 
 
 
@@ -90,12 +109,31 @@ Voir l'intégralité de notre manifeste sur [clermontech.org](http://clermontech
 
 ## #APIHour
 
+* 4 talks
+* 1h max.
 * 50 personnes max.
 * Lieu variable
-* 1h max
-* 4 talks
-* Live tweets `#APIHour`
-* Souriez, vous êtes filmés
 
-Bière
+<img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
+
+Souriez, vous êtes filmés
+
+
+## #APIHour 
+... is the new Happy Hour
+
+<img src="images/noun_project_12254.svg" alt="Share" width="200px" class="icon"/>
+
+<div class="credit">
+    Crédit: <a href="http://thenounproject.com/noun/beer/#icon-No12254" target="_blank">Beer</a> designed by <a href="http://thenounproject.com/jacob" target="_blank">Jacob Halton</a> from The Noun Project
+</div>
+
+
+
+## Merci
+
+[Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou) est à l'origine de notre identité visuelle (logo & mascotte)
+
+SupInfo pour leur accueil
+
 
