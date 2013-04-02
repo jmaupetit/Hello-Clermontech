@@ -7,7 +7,7 @@ Auteur : Julien Maupetit
 
 # Hello Clermont'ech !
 
-## Libère le pouvoir de l'ornithorynque
+## ... ainsi parla l'ornithorynque
 
 [@clermontech](https://twitter.com/clermontech)
 
