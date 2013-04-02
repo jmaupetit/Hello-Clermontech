@@ -5,9 +5,10 @@ Date : 03/04/2013
 Auteur : Julien Maupetit
 -->
 
+##### L'ornithorynque sortit de l'eau et dit...
 # Hello Clermont'ech !
 
-## ... ainsi parla l'ornithorynque
+<img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
 
 [@clermontech](https://twitter.com/clermontech)
 
