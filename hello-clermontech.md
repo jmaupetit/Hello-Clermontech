@@ -5,7 +5,7 @@ Date : 03/04/2013
 Auteur : Julien Maupetit
 -->
 
-##### L'ornithorynque sortit de l'eau et dit...
+##### L'ornithorynque sort de l'eau et dit...
 # Hello Clermont'ech !
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
@@ -34,8 +34,31 @@ Auteur : Julien Maupetit
 
 ### `/me` arrive en Auvergne
 
+<img src="images/noun_project_1625.svg" alt="Search" width="400px" class="icon"/>
 
-### DjangAuvergne
+Où sont les développeurs python ?
+
+<div class="credit">
+    Crédit : <a href="http://thenounproject.com/noun/binoculars/#icon-No1625" target="_blank">Binoculars</a> designed by <a href="http://thenounproject.com/DrawPerfect" target="_blank">Paul IJsendoorn</a> from The Noun Project
+</div>
+
+
+## Djang'Auvergne
+
+
+### Djang'Auvergne #1
+
+<img src="images/djangauvergne_history_01.png" alt="DjangAuvergne #1" />
+
+
+### Djang'Auvergne #2
+
+<img src="images/djangauvergne_history_02.png" alt="DjangAuvergne #2" />
+
+
+### Djang'Auvergne #3
+
+<img src="images/djangauvergne_history_03.png" alt="DjangAuvergne #3" />
 
 
 ### Clermont'ech is born
@@ -46,7 +69,7 @@ Auteur : Julien Maupetit
 
 <!-- ---------- Section ---------- -->
 
-# Les joyeux développeurs
+# Les joyeux développeurs auvergnats
 
 
 # Clermont'ech
@@ -73,6 +96,11 @@ Auteur : Julien Maupetit
 # Manifeste Clermont'ech
 
 
+# Partage
+
+<img src="images/noun_project_14291.svg" alt="Share" width="300px" class="icon"/>
+
+
 # Ouverture
 
 Clermont'ech est technologie-agnostique.
@@ -92,13 +120,8 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 <img src="images/noun_project_767.svg" alt="Handshake" width="500px" class="icon"/>
 
 <div class="credit">
-    Crédit: <a href="http://thenounproject.com/noun/handshake/#icon-No767" target="_blank">Handshake</a> designed by <a href="http://thenounproject.com/Jake_Nelsen" target="_blank">Jake Nelsen</a> from The Noun Project
+    Crédit : <a href="http://thenounproject.com/noun/handshake/#icon-No767" target="_blank">Handshake</a> designed by <a href="http://thenounproject.com/Jake_Nelsen" target="_blank">Jake Nelsen</a> from The Noun Project
 </div>
-
-
-# Partage
-
-<img src="images/noun_project_14291.svg" alt="Share" width="300px" class="icon"/>
 
 
 
@@ -125,15 +148,17 @@ Souriez, vous êtes filmés
 <img src="images/noun_project_12254.svg" alt="Share" width="200px" class="icon"/>
 
 <div class="credit">
-    Crédit: <a href="http://thenounproject.com/noun/beer/#icon-No12254" target="_blank">Beer</a> designed by <a href="http://thenounproject.com/jacob" target="_blank">Jacob Halton</a> from The Noun Project
+    Crédit : <a href="http://thenounproject.com/noun/beer/#icon-No12254" target="_blank">Beer</a> designed by <a href="http://thenounproject.com/jacob" target="_blank">Jacob Halton</a> from The Noun Project
 </div>
 
 
 
 ## Merci
 
-[Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou) est à l'origine de notre identité visuelle (logo & mascotte)
+[Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou)
 
-SupInfo pour leur accueil
+est à l'origine de notre identité visuelle (logo & mascotte)
 
+[SupInfo](http://clermont-ferrand.supinfo.com)
 
+pour leur accueil
