@@ -158,7 +158,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 Proposez nous un talk !
 
-<a href="mailto:iwanttospeack@clermontech.org">iwanttospeack@clermontech.org</a>
+<a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a>
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
 
