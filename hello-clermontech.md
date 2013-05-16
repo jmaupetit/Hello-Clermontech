@@ -1,12 +1,14 @@
 <!-- 
 Titre : Hello Clermont'ech
-Date : 03/04/2013
-Événement : Clermontech APIHour #1
+Date : 16/05/2013
+Événement : LavaJUG
 Auteur : Julien Maupetit
 -->
 
 ##### L'ornithorynque sort de l'eau et dit...
 # Hello Clermont'ech !
+
+LavaJUG 05/2013
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
 
@@ -135,11 +137,11 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 * 4 talks
 * 1h max.
 * 50 personnes max.
-* Lieu variable
+* Lieu et jour variables
+* Vidéos en ligne
+* Fréquence : 6/8 semaines
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
-
-Souriez, vous êtes filmés
 
 
 ## #APIHour 
@@ -152,6 +154,15 @@ Souriez, vous êtes filmés
 </div>
 
 
+## #APIHour
+
+Proposez nous un talk !
+
+<a href="mailto:iwanttospeack@clermontech.org">iwanttospeack@clermontech.org</a>
+
+<img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
+
+
 
 ## Merci
 
@@ -159,6 +170,6 @@ Souriez, vous êtes filmés
 
 est à l'origine de notre identité visuelle (logo & mascotte)
 
-[SupInfo](http://clermont-ferrand.supinfo.com)
+[LavaJUG](http://lavajug.org/)
 
 pour leur accueil
