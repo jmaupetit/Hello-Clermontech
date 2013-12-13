@@ -173,7 +173,7 @@ Proposez nous un talk !
 * 5 événements organisés
 * 20 talks
 * 300 ornithorynques motivés
-* 50 réservations en moins de 20 minutes pour le prochain event
+* 50 réservations : 20 minutes
 
 
 ## APIHour #6 Xmas Edition
