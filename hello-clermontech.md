@@ -8,15 +8,13 @@ Auteur : Julien Maupetit
 ##### L'ornithorynque sort de l'eau et dit...
 # Hello Clermont'ech !
 
-LavaJUG 05/2013
+Journée métiers de l'informatique - 12/2013
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
 
 [@clermontech](https://twitter.com/clermontech)
 
 [clermontech.org](http://clermontech.org)
-
-`#APIHour`
 
 
 
@@ -63,7 +61,7 @@ Où sont les développeurs python ?
 <img src="images/djangauvergne_history_03.png" alt="DjangAuvergne #3" />
 
 
-### Clermont'ech is born
+### Feb. 2012: Clermont'ech is born
 
 <img src="images/clermontech_aplat_500px.png" alt="Clermont'ech Esquisse" />
 
@@ -163,13 +161,33 @@ Proposez nous un talk !
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
 
 
+## Be famous!
 
-## Merci
+<img src="images/madmatah_apihour_2.jpg" alt="Happy speaker" />
 
-[Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou)
+[@madmatah](https://twitter.com/madmatah) +300 vues sur YouTube en moins de 48h
 
-est à l'origine de notre identité visuelle (logo & mascotte)
 
-[LavaJUG](http://lavajug.org/)
+## le bilan
 
-pour leur accueil
+* 5 événements organisés
+* 20 talks
+* 300 ornithorynques motivés
+* 50 réservations en moins de 20 minutes pour le prochain event
+
+
+## APIHour #6 Xmas Edition
+
+le 17 déc. 2013 à 19h au Celtill (Clermont-Ferrand)
+
+<img src="images/perry_xmas.jpg" alt="APIHour Xmas Edition 2013">
+
+
+## ... what's next?
+
+* APIHours
+* Organisation d'un atelier formation en 2014
+
+
+
+# Merci !
