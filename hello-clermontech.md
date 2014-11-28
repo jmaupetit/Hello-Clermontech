@@ -1,14 +1,14 @@
 <!-- 
 Titre : Hello Clermont'ech
-Date : 16/05/2013
-Événement : LavaJUG
+Date : 28/11/2014
+Événement : Journée des métiers de l'informatique
 Auteur : Julien Maupetit
 -->
 
-##### L'ornithorynque sort de l'eau et dit...
-# Hello Clermont'ech !
+## Hello 
+# Clermont'ech
 
-Journée métiers de l'informatique - 12/2013
+Journée métiers de l'informatique - 28/11/2014
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
 
@@ -21,15 +21,17 @@ Journée métiers de l'informatique - 12/2013
 <!-- Plan -->
 
 1. Pourquoi Clermont'ech ?
-2. Les joyeux <strike>ornithorynques</strike> développeurs
+2. L'association
 3. El Manifesto
-4. Le concept `#APIHour`
+4. Les événements
+5. Les *User Groups* sur CF
 
 
 
 <!-- ---------- Section ---------- -->
 
-# Pourquoi Clermont'ech ?
+# Pourquoi 
+## Clermont'ech ?
 
 
 ### `/me` arrive en Auvergne
@@ -69,7 +71,7 @@ Où sont les développeurs python ?
 
 <!-- ---------- Section ---------- -->
 
-# Les joyeux développeurs auvergnats
+# L'association
 
 
 # Clermont'ech
@@ -81,8 +83,8 @@ Où sont les développeurs python ?
 ## Bureau
 
 * Président : [Julien Maupetit](http://julien.maupetit.me)
-* Vice président : Julien Muetton
-* Trésorier : Pierre Tachoire
+* Vice président : [Julien Muetton](http://muetton.me)
+* Trésorier : [Pierre Tachoire](https://twitter.com/krichprollsch)
 * Trésorier suppléant : [William Durand](http://williamdurand.fr)
 * Secrétaire : [Manuel Raynaud](http://www.manuel-raynaud.com)
 * Secrétaire suppléant : [Jean-Philippe Serafin](http://jeanphix.me/)
@@ -93,7 +95,7 @@ Où sont les développeurs python ?
 
 <!-- ---------- Section ---------- -->
 
-# Manifeste Clermont'ech
+# Manifesto
 
 
 # Partage
@@ -127,7 +129,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 <!-- ---------- Section ---------- -->
 
-# #APIHour
+### "Mais concrètement vous faites quoi ?"
 
 
 ## #APIHour
@@ -168,25 +170,96 @@ Proposez nous un talk !
 [@madmatah](https://twitter.com/madmatah) +300 vues sur YouTube en moins de 48h
 
 
-## le bilan
+## Bilan APIHours
 
-* 5 événements organisés
-* 20 talks
-* 300 ornithorynques motivés
-* 50 réservations : 20 minutes
+* 11 APIHours organisés
+* 44 talks (40 speakers locaux)
+* 550 ornithorynques motivés
+* 50 réservations : 15 minutes
+* 17 sponsors
+* 0€ par place
 
 
-## APIHour #6 Xmas Edition
+## Workshop
 
-le 17 déc. 2013 à 19h au Celtill (Clermont-Ferrand)
+* Premier atelier Git le 15 novembre dernier
+* De la théorie à la pratique
+
+<img src="images/clermontech_mascotte_git.png" alt="Mascotte Clermont'ech Git" />
+
+
+## DejDev
+
+* Déjeuner informel
+* Fédérer la communauté
+* Echanger autour de nos problèmes métier
+
+
+## APIHour #12 Xmas Edition
+
+le 16 déc. 2013 à 19h à `[Fill this]` (Clermont-Ferrand)
 
 <img src="images/perry_xmas.jpg" alt="APIHour Xmas Edition 2013">
 
 
+
 ## ... what's next?
 
-* APIHours
-* Organisation d'un atelier formation en 2014
+
+# 2015
+
+<img src="images/we-need-you.jpg" alt="We need you for the next APIHour">
+
+
+## 2015
+
+* Workshop Sécurité
+* Support à l'organisation d'événements nationaux
+
+
+## DjangoCong #5
+
+<img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne">
+
+**8-10 Mai 2015**, 
+Clermont-Ferrand
+
+
+
+### Les 
+# User Groups
+
+
+## LavaJUG
+
+<img src="images/lavajug.png" alt="LavaJUG">
+
+[@lavajug](https://twitter.com/lavajug)
+
+[www.lavajug.org](http://www.lavajug.org/xwiki/bin/view/Main/WebHome)
+
+
+## ClermontJS
+
+<img src="images/clermontjs.png" alt="ClermontJS">
+
+[@ClermontJS](https://twitter.com/ClermontJS)
+
+
+## Clermont.rb
+
+<img src="images/clermontrb.png" alt="Clermont.rb">
+
+[@clermontrb](https://twitter.com/clermontrb)
+
+
+## Acolab
+
+<img src="images/acolab.png" alt="Acolab">
+
+[@acolabfr](https://twitter.com/acolabfr)
+
+[acolab.fr](http://acolab.fr)
 
 
 
